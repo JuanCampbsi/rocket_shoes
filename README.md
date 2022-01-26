@@ -17,7 +17,7 @@ Interface do usuário.
 
 <p align="center">
   <kbd>
- <img width="800" style="border-radius: 10px" height="500" src="" alt="Intro"> 
+ <img width="800" style="border-radius: 10px" height="400" src="" alt="Intro"> 
   </kbd>
   </br>
 </p>
