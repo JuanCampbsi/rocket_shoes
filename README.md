@@ -11,13 +11,13 @@
 O projeto tem como objetivo adicionar um novo produto ao carrinho, excluir, alterar, cálcular os preços, sub-total, total do carrinho, validação de estoque, sendo possível visualizar mensagens de erro, entre outros.
 
 
-## Preview 📱
+## Preview 
 Interface do usuário.
 </br>
 
 <p align="center">
   <kbd>
- <img width="800" style="border-radius: 10px" height="400" src="" alt="Intro"> 
+ <img width="800" src= "" style="border-radius: 10px" height="400" src="" alt="Intro"> 
   </kbd>
   </br>
 </p>
