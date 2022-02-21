@@ -17,7 +17,7 @@ Interface do usuário.
 
 <p align="center">
   <kbd>
- <img width="800" src= "" style="border-radius: 10px" height="400" src="" alt="Intro"> 
+ <img width="800" style="border-radius: 10px" height="400" src="https://github.com/JuanCampbsi/RocketShoes/blob/4dc50039e3051c2d3b51abc473ea2676176a4619/src/assets/gif-preview.gif" alt="Intro"> 
   </kbd>
   </br>
 </p>
